@@ -16,7 +16,7 @@ public class MyApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("version 3");
+       System.out.println("version 4");
     }
     
 }
